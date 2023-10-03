@@ -1,0 +1,10 @@
+.text-32 {
+    font-size: 32px;
+}
+.text-24 {
+    font-size: 24px;
+}
+.full-size {
+    width: 100vw;
+    height: 100vh;
+}

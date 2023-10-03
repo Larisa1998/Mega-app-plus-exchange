@@ -1,0 +1,10 @@
+.navigation {
+    height: 100vh;
+    border-right: 5px solid #FFF;
+    position: relative;
+    padding:0;
+    margin:0;
+}
+.navigation img {
+    max-width: 150px;
+}
